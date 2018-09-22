@@ -1,1 +1,1 @@
-# -rsschool-profile
+# rsschool-profile
